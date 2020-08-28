@@ -6,7 +6,7 @@ namespace H3ll0_W0rld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hejsan einf drogij wepipiwjrg!");
         }
     }
 }
