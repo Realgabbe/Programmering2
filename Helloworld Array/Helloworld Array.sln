@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helloworld Array", "Helloworld Array\Helloworld Array.csproj", "{CDD7A7CA-C257-42C7-BA0B-1423631580BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD7A7CA-C257-42C7-BA0B-1423631580BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD7A7CA-C257-42C7-BA0B-1423631580BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD7A7CA-C257-42C7-BA0B-1423631580BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD7A7CA-C257-42C7-BA0B-1423631580BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {777AAF0E-46EB-4638-8D0F-45C2484E1AC5}
+	EndGlobalSection
+EndGlobal

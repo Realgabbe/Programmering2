@@ -64,7 +64,7 @@ namespace H3ll0_W0rld
 
             Console.WriteLine("Skriv '1' för ett svar och skriv '2' för ett annat");
             var svar4 = Convert.ToInt32(Console.ReadLine());
-            switch (svar4)
+            switch (svar4)  
             {
                 case 1:
                     Console.WriteLine("Hejsan");
