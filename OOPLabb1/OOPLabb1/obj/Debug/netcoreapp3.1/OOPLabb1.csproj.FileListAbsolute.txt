@@ -1,0 +1,13 @@
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.exe
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.deps.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.runtimeconfig.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.runtimeconfig.dev.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.dll
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\bin\Debug\netcoreapp3.1\OOPLabb1.pdb
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.csprojAssemblyReference.cache
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.AssemblyInfoInputs.cache
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.AssemblyInfo.cs
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.dll
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.pdb
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPLabb1\OOPLabb1\obj\Debug\netcoreapp3.1\OOPLabb1.genruntimeconfig.cache

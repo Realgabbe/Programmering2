@@ -1,0 +1,12 @@
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.exe
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.deps.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.runtimeconfig.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.runtimeconfig.dev.json
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.dll
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\bin\Debug\netcoreapp3.1\OOPintro.pdb
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.AssemblyInfoInputs.cache
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.AssemblyInfo.cs
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.dll
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.pdb
+C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\OOPintro\OOPintro\obj\Debug\netcoreapp3.1\OOPintro.genruntimeconfig.cache
