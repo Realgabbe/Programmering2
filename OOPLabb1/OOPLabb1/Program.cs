@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 
 namespace OOPLabb1
 {
@@ -7,20 +8,50 @@ namespace OOPLabb1
     {
         static void Main(string[] args)
         {
-            Cider cider = new Cider();
             Customer customer = new Customer();
+            Pearcider pearcider = new Pearcider();
+            Applecider applecider = new Applecider();
+
+            pearcider.Flavor = "pear";
+            applecider.Flavor = "Apple";
 
             Console.WriteLine("Welcome customer! Please type in your name.");
             customer.Name = Console.ReadLine();
 
-            Console.WriteLine("Hello " + customer.Name + "! How many cider do you want to buy?");
-            cider.Amount = Convert.ToInt32(Console.ReadLine());
-            customer._cart.Add(cider);
-            Console.WriteLine("Ordered " + cider.Amount + " cans of cider. Here's a list of current orders:");
-
-            foreach (var Product in customer._cart)
+            do
             {
-                Console.WriteLine(customer.Name + " has currently ordered " + cider.Amount + " cans of cider");
+                Console.WriteLine("Hello " + customer.Name + "! What flavor of cider would you like to buy? Your choices are: 'Pear' or 'Apple'.");
+                string answer = Console.ReadLine();
+                if (answer.ToLower() == "pear")
+                {
+                    Console.WriteLine("How many cans of pear cider would you like to buy?");
+                    pearcider.Amount = pearcider.Amount + Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("You have ordered " + pearcider.Amount + " cans of " + pearcider.Flavor + " cider in total.");
+                    customer._cart.Add(pearcider);
+                }
+                
+                if (answer.ToLower() == "apple")
+                {
+                    Console.WriteLine("How many cans of apple cider would you like to buy?");
+                    applecider.Amount = applecider.Amount + Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("You have ordered " + applecider.Amount + " cans of " + applecider.Flavor + " cider in total.");
+                    customer._cart.Add(applecider);
+                }
+
+                Console.WriteLine("Would you like buy more cider?");
+                string repeat = Console.ReadLine();
+                if (repeat.ToLower() != "yes")
+                {
+                    break;
+                }
+                
+            } while (true);
+
+            Console.WriteLine("Would you like to view your cart?");
+            string viewcart = Console.ReadLine();
+            if(viewcart.ToLower() == "yes")
+            {
+                Console.WriteLine(customer.Name + " has currently ordered " + pearcider.Amount + " cans of pear cider. " + customer.Name + " has also ordered " + applecider.Amount + " cans of apple cider.");
             }
         }
     }
