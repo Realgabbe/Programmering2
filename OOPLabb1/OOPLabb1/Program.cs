@@ -12,8 +12,10 @@ namespace OOPLabb1
             Pearcider pearcider = new Pearcider();
             Applecider applecider = new Applecider();
 
-            pearcider.Flavor = "pear";
+            pearcider.Flavor = "Pear";
             applecider.Flavor = "Apple";
+
+            Console.WriteLine(pearcider.GetType().Name);
 
             Console.WriteLine("Welcome customer! Please type in your name.");
             customer.Name = Console.ReadLine();

@@ -7,6 +7,7 @@ namespace OOPLabb1
 {
     class Cider : Product
     {
+
         private string _flavor;
         public string Flavor
         {
