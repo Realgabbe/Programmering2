@@ -7,6 +7,57 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Background="LightBlue" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="8" Grid.RowSpan="8"/>
+        <TextBlock Background="Black" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="4"/>
+
+        <TextBox x:Name="result_window" Grid.Row="1" Grid.Column="2" FontSize="40" Grid.ColumnSpan="4" HorizontalContentAlignment="Left" Background="White"/>
+
+        <Button x:Name="button_Numlock" Grid.Row="3" Grid.Column="2" Content="numlock" FontSize="30" Click="button_Numlock_Click"/>
+        <Button x:Name="button_squareRoot" Grid.Row="3" Grid.Column="3" Content="√" FontSize="45" Click="button_squareRoot_Click"/>
+        <Button x:Name="button_PowerOf" Grid.Row="3" Grid.Column="4" Content="x^2" FontSize="45" Click="button_PowerOf_Click"/>
+        <Button x:Name="button_Clear" Grid.Row="3" Grid.Column="5" Content="AC" FontSize="45" Click="button_Clear_Click"/>
+
+        <Button x:Name="button_Seven" Grid.Row="4" Grid.Column="2" Content="7" FontSize="45" Click="button_Seven_Click"/>
+        <Button x:Name="button_Eight" Grid.Row="4" Grid.Column="3" Content="8" FontSize="45" Click="button_Eight_Click"/>
+        <Button x:Name="button_Nine" Grid.Row="4" Grid.Column="4" Content="9" FontSize="45" Click="button_Nine_Click"/>
+        <Button x:Name="button_Division" Grid.Row="4" Grid.Column="5" Content="÷" FontSize="45" Click="button_Division_Click"/>
+
+        <Button x:Name="button_Four" Grid.Row="5" Grid.Column="2" Content="4" FontSize="45" Click="button_Four_Click"/>
+        <Button x:Name="button_Five" Grid.Row="5" Grid.Column="3" Content="5" FontSize="45" Click="button_Five_Click"/>
+        <Button x:Name="button_Six" Grid.Row="5" Grid.Column="4" Content="6" FontSize="45" Click="button_Six_Click"/>
+        <Button x:Name="button_Multiplication" Grid.Row="5" Grid.Column="5" Content="*" FontSize="45" Click="button_Multiplication_Click"/>
+
+        <Button x:Name="button_One" Grid.Row="6" Grid.Column="2" Content="1" FontSize="45" Click="button_One_Click"/>
+        <Button x:Name="button_Two" Grid.Row="6" Grid.Column="3" Content="2" FontSize="45" Click="button_Two_Click"/>
+        <Button x:Name="button_Three" Grid.Row="6" Grid.Column="4" Content="3" FontSize="45" Click="button_Three_Click"/>
+        <Button x:Name="button_Minus" Grid.Row="6" Grid.Column="5" Content="-" FontSize="45" Click="button_Minus_Click"/>
+
+        <Button x:Name="button_Zero" Grid.Row="7" Grid.Column="2" Content="0" FontSize="45" Click="button_Zero_Click"/>
+        <Button x:Name="button_Execute" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="2" Content="Enter" FontSize="45" Click="button_Execute_Click"/>
+        <Button x:Name="button_Plus" Grid.Row="7" Grid.Column="5" Content="+" FontSize="45" Click="button_Plus_Click"/>
 
     </Grid>
 </Window>
