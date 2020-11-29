@@ -29,11 +29,6 @@ namespace Calculator
             InitializeComponent();
         }
 
-        private void square_root_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
         private void button_Execute_Click(object sender, RoutedEventArgs e)
         {
             switch (operation) // Denna switchen är baserad på vad stringen "operation" har för värde. Om stringen "operation" t.ex har värdet "+" så kommer den att hoppa till + casen
