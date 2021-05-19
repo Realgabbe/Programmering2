@@ -1,0 +1,15 @@
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\bin\Debug\Flappy Bird slutprojekt.exe.config
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\bin\Debug\Flappy Bird slutprojekt.exe
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\bin\Debug\Flappy Bird slutprojekt.pdb
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.csprojAssemblyReference.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\MainWindow.g.cs
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\App.g.cs
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt_MarkupCompile.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt_MarkupCompile.lref
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\MainWindow.baml
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.g.resources
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy_Bird_slutprojekt.Properties.Resources.resources
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.csproj.GenerateResource.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.exe
+C:\Users\gabbe\Documents\GitHub\Programmering 2\Flappy Bird slutprojekt\Flappy Bird slutprojekt\obj\Debug\Flappy Bird slutprojekt.pdb

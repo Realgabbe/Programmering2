@@ -11,3 +11,16 @@ C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\H3ll0 W0rld\Metoder\ob
 C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
 C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
 C:\Users\gabriel.billskog\Documents\GitHub\Programmering2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\gabbe\Documents\GitHub\Programmering 2\H3ll0 W0rld\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
