@@ -8,21 +8,31 @@
         Title="Flappy Bird slutprojekt" Height="490" Width="525">
     <Canvas Name="MyCanvas" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" Background="LightBlue">
 
+		<!-- Skapar en bild med taggen "cloud" från källan "images/clouds.png" -->
         <Image Height="145" Width="200" Source="images/clouds.png" Canvas.Left="296" Canvas.Top="46" Tag="cloud" />
+		<!-- Skapar en bild med taggen "cloud" från källan "images/clouds2.png" -->
         <Image Height="145" Width="200" Source="images/clouds2.png" Canvas.Left="52" Canvas.Top="144" Tag="cloud" />
 
+		<!-- Skapar en bild med taggen "obs1" från källan "images/pipeBottom.png" -->
         <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs1" Canvas.Left="33" Canvas.Top="334"/>
+		<!-- Skapar en bild med taggen "obs1" från källan "images/pipeTop.png" -->
         <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs1" Canvas.Left="33" Canvas.Top="-211"/>
 
+		<!-- Skapar en bild med taggen "obs2" från källan "images/pipeBottom.png"-->
         <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs2" Canvas.Left="242" Canvas.Top="191"/>
+		<!-- Skapar en bild med taggen "obs2" från källan "images/pipeTop.png"-->
         <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs2" Canvas.Left="242" Canvas.Top="-354"/>
 
+		<!-- Skapar en bild med taggen "obs3" från källan "images/pipeBottom.png"-->
         <Image Height="390" Width="66" Source="images/pipeBottom.png" Tag="obs3" Canvas.Left="430" Canvas.Top="334"/>
+		<!-- Skapar en bild med taggen "obs3" från källan "images/pipeTop.png"-->
         <Image Height="390" Width="66" Source="images/pipeTop.png" Tag="obs3" Canvas.Left="430" Canvas.Top="-211"/>
 
+		<!-- Skapar en bild från källan "images/flappybird.png"-->
         <Image Name="flappyBird" Height="36" Width="50" Source="images/flappybird.png" Stretch="Fill" Canvas.Left="19" Canvas.Top="240"/>
 
-        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0"/>
+		<!-- Skapar en label vid namnet "txtScore" vars font är ExtraBold -->
+        <Label Name="txtScore" FontSize="22" FontWeight="ExtraBold" Content="Score: 0"/>  
 
     </Canvas>
 </Window>

@@ -103,12 +103,20 @@ namespace Flappy_Bird_slutprojekt
 
         }
 
+        /// <summary>
+        /// Om knapp 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void KeyIsUp(object sender, KeyEventArgs e)
         {
             flappyBird.RenderTransform = new RotateTransform(5, flappyBird.Width / 2, flappyBird.Height / 2);
             gravity = 8;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         private void StartGame()
         {
 
@@ -145,8 +153,10 @@ namespace Flappy_Bird_slutprojekt
             }
 
             gameTimer.Start();
-
+            
         }
+        
+        
 
         private void EndGame()
         { 
